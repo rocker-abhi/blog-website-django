@@ -1,4 +1,4 @@
-<h1 align="center" id="title">BLOG WEBSITE DJANGO</h1>
+<h1 align="center" id="title">BLOG WEBSITE DJANGO .</h1>
 
 <p id="description">Django-powered website offering robust authentication functionalities including user registration login and logout features. Seamlessly designed it ensures secure access control and user management providing a smooth and reliable experience for users navigating the platform.</p>
 
